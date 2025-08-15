@@ -1,0 +1,4 @@
+C:\Users\mardin\OneDrive\Desktop\OOP Home Task\obj\Debug\net9.0\OOP Home Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin\OneDrive\Desktop\OOP Home Task\obj\Debug\net9.0\OOP Home Task.AssemblyInfoInputs.cache
+C:\Users\mardin\OneDrive\Desktop\OOP Home Task\obj\Debug\net9.0\OOP Home Task.AssemblyInfo.cs
+C:\Users\mardin\OneDrive\Desktop\OOP Home Task\obj\Debug\net9.0\OOP Home Task.csproj.CoreCompileInputs.cache
